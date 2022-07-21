@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of the Analysis
-The purpose of this analysis is to show data between different city types, drivers, and riders. 
+The purpose of this analysis is to show data between different city types, drivers, riders and fares. 
 
 ## Analysis
 From the data, we can derive many conclusions. The biggest conclusion is that Rural cities have the least amount of drivers, riders, and total fares. Suburban cities have the 2nd most amount of drivers, riders, and total fares. Lastly, Urban areas have the highest density of drivers, riders, and total fares.
